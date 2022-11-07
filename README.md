@@ -73,4 +73,7 @@
   <a href="https://discord.gg/7Umrdsx">
     <img src="https://img.shields.io/badge/discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
+  <!--
+    <a rel="me" href="https://mastodon.nz/@ghostlylake">Mastodon</a>
+  -->
 </div>
